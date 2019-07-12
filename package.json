@@ -1,0 +1,19 @@
+{
+  "name": "generic_backend",
+  "version": "1.0.0",
+  "description": "backend of generic app",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harishydav/generic-backend.git"
+  },
+  "author": "Alok Yadav",
+  "license": "ISC",
+  "homepage": "https://github.com/harishydav/generic-backend/blob/master/README.md",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1"
+  }
+}
